@@ -41,4 +41,3 @@ This visual shows the top 5 device models with      |  This visual shows the top
 ---
 
  
- 
